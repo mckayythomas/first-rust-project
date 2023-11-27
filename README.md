@@ -4,9 +4,7 @@ As a software engineer eager to advance my skills, I took on a challenging Rust 
 
 # Software Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
-
-In the 4-5 minute demo video, I walk through the software, emphasizing key features and sharing insights into Rust's language syntax. Despite the project's difficulty, the focus is on providing a clear understanding of the implemented functionality.
+[Demo Video](https://youtu.be/9OJrpmavJQs)
 
 # Development Environment
 

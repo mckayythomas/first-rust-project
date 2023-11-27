@@ -38,7 +38,7 @@ async fn fetch_data() {
         .zip(document.select(&book_price_selector))
     {
         let title = book_title.text().collect::<Vec<_>>().join(" ");
-        let price = book_price.text().collect::<Vec<_>>().join(" ");
+        let price= book_price.text().collect::<Vec<_>>().join(" ");
 
         println!("Title: {} - Price: {}", title, price);
     }    
