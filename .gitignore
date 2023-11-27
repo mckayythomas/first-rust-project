@@ -1,0 +1,18 @@
+# Generated files
+target
+
+# Cargo.lock file
+Cargo.lock
+
+# VS Code directory
+.vscode/
+
+# IntelliJ IDEA directory
+.idea/
+
+# Compiled files
+*.rs.bk
+
+# Operating System Files
+.DS_Store
+Thumbs.db
